@@ -1,7 +1,7 @@
 package gengo
 
 import (
-	"github.com/ahmetb/go-linq"
+	"github.com/ahmetb/go-linq/v3"
 	"github.com/davyxu/protoplus/gen"
 	"github.com/davyxu/protoplus/model"
 	"sort"
